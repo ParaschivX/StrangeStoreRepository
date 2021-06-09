@@ -1,0 +1,12 @@
+C:\Users\drobo\source\repos\DomainEntities\bin\Debug\net5.0\DomainEntities.deps.json
+C:\Users\drobo\source\repos\DomainEntities\bin\Debug\net5.0\DomainEntities.dll
+C:\Users\drobo\source\repos\DomainEntities\bin\Debug\net5.0\ref\DomainEntities.dll
+C:\Users\drobo\source\repos\DomainEntities\bin\Debug\net5.0\DomainEntities.pdb
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.AssemblyInfo.cs
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.dll
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\ref\DomainEntities.dll
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.pdb
+C:\Users\drobo\source\repos\DomainEntities\obj\Debug\net5.0\DomainEntities.csprojAssemblyReference.cache
